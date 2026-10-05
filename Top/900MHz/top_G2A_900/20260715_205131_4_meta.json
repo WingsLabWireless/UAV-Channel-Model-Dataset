@@ -1,0 +1,46 @@
+{
+    "file_info": {
+        "dataset_name": "20260715_205131_4_data.csv::20260715_205131_4_iq.dat",
+        "dataset_fpath": "datasets/node_4/::/home/ub-wings-nuc-19/Dropbox/ztswarm_iq_datasets/iq_samples",
+        "dataset_type": "hybrid",
+        "start_timestamp": "20260715_205131",
+        "collect_duration": 794.6369426250458,
+        "dataset_comp": false
+    },
+    "network_info": {
+        "node_id": 4,
+        "node_type": "hdr",
+        "altitude": "",
+        "n_active_paths": 1,
+        "path_info": {
+            "1": {
+                "freq_mhz": 900,
+                "modulation": "64QAM",
+                "tx_gain": [
+                    0
+                ],
+                "rx_gain": [
+                    47
+                ],
+                "gain_adaptive": false,
+                "n_access": 6
+            }
+        },
+        "n_active_jammer": 0,
+        "jammer_info": {},
+        "n_neighbors": 1,
+        "neighbor_info": {
+            "3": {
+                "node_type": "hdr",
+                "path_id": 1,
+                "tx_freq": 900,
+                "tx_gain": [
+                    -10
+                ],
+                "distance": "",
+                "altitude": ""
+            }
+        },
+        "additional_info": ""
+    }
+}
